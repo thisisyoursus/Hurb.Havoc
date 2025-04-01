@@ -463,7 +463,8 @@ WeaponData
 		bursttest
 		{
 			"burst_fire_count"								"3"
-			"burst_fire_delay"								"0.25"
+			"burst_fire_delay"								"0.05"
+			"fire_rate"										"*5"
 		}
 
 	}
