@@ -460,6 +460,11 @@ WeaponData
 
 			active_crosshair_count                    "2"
 		}
+		TEST
+		{
+			"burst_fire_count"								"3"
+			"burst_fire_delay"								"0.25"
+		}
 
 	}
 	active_crosshair_count				"1"

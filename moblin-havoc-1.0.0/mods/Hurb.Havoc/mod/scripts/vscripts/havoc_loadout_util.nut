@@ -26,6 +26,10 @@ void function SetHavocTitanLoadout( entity titan, TitanLoadoutDef loadout  )
 		{
 			titan.GetMainWeapons()[0].SetMods(["pressurised_chamber"])
         }
+		if(SoulHasPassive( soul, ePassives["#GEAR_HAVOC_TEST"] ) )
+		{
+			titan.GetMainWeapons()[0].SetMods(["bursttest"])
+        }
 		/*if(SoulHasPassive( soul, ePassives["#GEAR_ARCHON_FEEDBACK"] ) )
 		{
 			titan.GetMainWeapons()[0].SetMods(["static_feedback"])
