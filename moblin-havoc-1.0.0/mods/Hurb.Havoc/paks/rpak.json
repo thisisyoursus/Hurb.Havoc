@@ -1,0 +1,15 @@
+{
+    "Preload":
+    {
+        "havoc.rpak": true,
+	"triple_threat_titan.rpak": false
+    },
+    "Aliases":
+    {
+
+    },
+    "Postload":
+    {
+        "triple_threat_titan.rpak": "common.rpak"
+    }
+}

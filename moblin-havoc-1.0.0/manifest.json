@@ -1,0 +1,9 @@
+{
+    "name": "Havoc",
+    "version_number": "1.8.14",
+    "website_url": "https://github.com/Hurbskideez/Hurb.Havoc/tree/main",
+    "description": "Implements the havoc titan based on cut content.",
+    "dependencies": [
+		"The_Peepeepoopoo_man-Titanframework-2.4.3"
+    ]
+}
