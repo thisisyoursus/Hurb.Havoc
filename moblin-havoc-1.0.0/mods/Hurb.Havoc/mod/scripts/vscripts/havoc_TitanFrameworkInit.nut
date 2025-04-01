@@ -77,7 +77,7 @@ void function HavocUIInit()
 		TEST.description = "#GEAR_HAVOC_TEST"
 		//PressurisedChamber.image = $""
 		TEST.customIcon = true
-		Havoc.passive2Array.append(bursttest)
+		Havoc.passive2Array.append(TEST)
 
 		CreateModdedTitanSimple(Havoc)
 	#endif
