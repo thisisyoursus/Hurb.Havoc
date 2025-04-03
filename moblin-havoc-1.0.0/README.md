@@ -1,82 +1,36 @@
-# Brute 4
+# havoc
 
 **Required by Server and Client**
 
-Implements the Brute4 titan based on cut content.
+repair havoc
 
 ### Activation
 
-Use peepee.TitanFramework's titan selection to pick Brute4.
+Use peepee.TitanFramework's titan selection to pick havoc.
 
-## [Loadout](https://youtu.be/enGWYx5sIws)
-*Weapon*: Quad Rocket
+## [Loadout]
 
-* Primary fire: Fires 4 rockets with a spiral flight path.
-* Alt fire: Fires a single, stronger, faster rocket for 2 ammo.
+Loadout Primary Weapon: Triple Threat
 
-*Offensive*: Grenade Volley
+Launches 3 grenades at once in a horizontal pattern. Alt: Fires grenades in a vertical pattern.
 
-* Fires a rapid burst of grenades that arm on contact.
+Offensive: Shockwave
 
-*Defensive*: Mobile Dome Shield
+Releases a pressure wave, damage increases as it travels.
 
-* Deploys a mobile Dome Shield that loses health over time and breaks when attacking or dashing. Disables sprinting.
+Defensive: Blast Shield
 
-*Utility*: Cluster Payload
+Blocks incoming fire, power increases before exploding on release.
 
-* Reloads Quad Rocket with 4 single-fire cluster-loaded rockets.
+Utility: Arc Mines
 
-*Core*: Barrage Core
+Fires three proximity triggered arc mines that stick to surfaces.
 
-* Rapidly fires cluster-loaded explosives.
+Core: Berserk Core
 
-### Kits
-
-**Rocket Stabilizer**
-
-- Quad rockets are faster and fly straight, growing closer over time.
-
-**Magnetic Rollers**
-
-- Grenades bounce much farther and become magnetic after bouncing.
-
-**Molting Shell**
-
-- When broken, Mobile Dome Shield refills a dash and refunds some remaining duration.
-
-**Rapid Detonators**
-
-- Cluster Payload fires faster and all clusters explode more quickly.
-
-**Explosive Reserves**
-
-- Cluster Payload has two charges.
-
-### Aegis Upgrades
-
-**Agile Frame**
-
-- Removes all sprinting restrictions.
-
-**Rocket Stream**
-
-- Quad Rocket and Cluster payload fire faster and hold more ammo.
-
-**Barrage Core Gliders**
-
-- Barrage Core rockets have increased speed and reduced drop.
-
-**Grenade Swarm**
-
-- Grenade Volley fires twice as many grenades.
-
-**Pyrotechnics**
-
-- Explosions always deal maximum damage.
+Empowers Havoc, improves attack and movement speed.
 
 ## Credits
 
 - Galactic Moblin - Custom UI Elements
-- Hurb - Custom UI Elements
 - akinasu666 - Japanese Translation
-- Daurik_ Russian Translation
